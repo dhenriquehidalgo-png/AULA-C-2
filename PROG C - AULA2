@@ -3,11 +3,13 @@ int main (){
     char opcao = 1,75;
     char nome[20] = "Denis";
 
-    printf("A idade do %s é: %d\n", nome, idade);
-    printf("A altura é: %e\n", aktura);
+    //printf("A idade do %s é: %d\n", nome, idade);
+    printf("A idade é: %d\n
+    printf("A altura é: %e\n", altura);
     printf("A opcao é: %c\n", opcao);
 
 
 
     // sintaxe scanf
     // scanf("formato1" "formato2, &variavel1, variavel2, ...);
+}
